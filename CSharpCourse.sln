@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class01", "src\Class01\Clas
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01 - IL Introduction", "01 - IL Introduction", "{30B1CDDC-7811-4240-AEBA-CDB83C5D891B}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02 - IEnumerable SM", "02 - IEnumerable SM", "{1DB727EB-271E-450F-849F-4FE457B3A680}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpCourse.Class02", "CSharpCourse.Class02\CSharpCourse.Class02.csproj", "{B6B5B6F1-7EED-4309-9CBE-6BFB7836787F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,11 +21,16 @@ Global
 		{F7771662-E3BB-4002-8E12-608A83616A97}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F7771662-E3BB-4002-8E12-608A83616A97}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F7771662-E3BB-4002-8E12-608A83616A97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6B5B6F1-7EED-4309-9CBE-6BFB7836787F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6B5B6F1-7EED-4309-9CBE-6BFB7836787F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6B5B6F1-7EED-4309-9CBE-6BFB7836787F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6B5B6F1-7EED-4309-9CBE-6BFB7836787F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{F7771662-E3BB-4002-8E12-608A83616A97} = {30B1CDDC-7811-4240-AEBA-CDB83C5D891B}
+		{B6B5B6F1-7EED-4309-9CBE-6BFB7836787F} = {1DB727EB-271E-450F-849F-4FE457B3A680}
 	EndGlobalSection
 EndGlobal
