@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class01", "src\Class01\Class01.csproj", "{F7771662-E3BB-4002-8E12-608A83616A97}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01 - IL Introduction", "01 - IL Introduction", "{30B1CDDC-7811-4240-AEBA-CDB83C5D891B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7771662-E3BB-4002-8E12-608A83616A97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7771662-E3BB-4002-8E12-608A83616A97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7771662-E3BB-4002-8E12-608A83616A97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7771662-E3BB-4002-8E12-608A83616A97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F7771662-E3BB-4002-8E12-608A83616A97} = {30B1CDDC-7811-4240-AEBA-CDB83C5D891B}
+	EndGlobalSection
+EndGlobal
